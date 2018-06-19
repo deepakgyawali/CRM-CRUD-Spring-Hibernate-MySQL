@@ -15,7 +15,7 @@ It contains the following features:
 
 Screenshots:
 
-![alt text](https://github.com/deepakgyawali/CRM-CRUD-Spring-Hibernate-MySQL/blob/master/screenshots/crm.JPG "Front Page")
+![alt text](https://github.com/deepakgyawali/CRM-CRUD-Spring-Hibernate-MySQL/blob/master/screenshots/crm-frontpage.JPG "Front Page")
 ![alt text](https://github.com/deepakgyawali/CRM-CRUD-Spring-Hibernate-MySQL/blob/master/screenshots/crm-add-form.JPG "Add Customer Form")
 ![alt text](https://github.com/deepakgyawali/CRM-CRUD-Spring-Hibernate-MySQL/blob/master/screenshots/crm-search.JPG "Search Interface")
 
