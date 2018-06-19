@@ -17,7 +17,7 @@ Screenshots:
 
 ![alt text](https://github.com/deepakgyawali/CRM-CRUD-Spring-Hibernate-MySQL/blob/master/screenshots/crm.JPG "Front Page")
 ![alt text](https://github.com/deepakgyawali/CRM-CRUD-Spring-Hibernate-MySQL/blob/master/screenshots/crm-add-form.JPG "Add Customer Form")
-![alt text](https://github.com/deepakgyawali/CRM-CRUD-Spring-Hibernate-MySQL/bolb/master/screenshots/crm-search.JPG "Search Interface")
+![alt text](https://github.com/deepakgyawali/CRM-CRUD-Spring-Hibernate-MySQL/blob/master/screenshots/crm-search.JPG "Search Interface")
 
 
 Instructions:
